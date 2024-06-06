@@ -71,7 +71,7 @@ SAN-кластер
  Users 
 --------
 - id
-- username
+- user
 - first_name
 - last_name
 - password
